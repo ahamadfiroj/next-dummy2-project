@@ -1,0 +1,9 @@
+.navigator{
+    display: flex;
+    gap: 24px;
+}
+.page-heading{
+    margin-top: 32px;
+    display: flex;
+    text-align: center;
+}
