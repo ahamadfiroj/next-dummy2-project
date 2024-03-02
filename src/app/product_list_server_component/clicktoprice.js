@@ -2,6 +2,7 @@
 
 import { useState } from "react"
 
+
  const PriceComponent = ({itemData})=>{
     const [show, setShow] = useState(false)
     return <div>
